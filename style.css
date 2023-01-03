@@ -95,7 +95,7 @@ header {
 
 
 #girl{
-	background-image: url(assets/image-hero-mobile@2x.png);
+	background-image: url(image-hero-mobile@2x.png);
 	background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
@@ -227,7 +227,7 @@ footer {
   }
   
   #girl {
-    background-image: url(assets/image-hero-tablet@2x.png);
+    background-image: url(image-hero-tablet@2x.png);
     height: 640px;
     position: absolute;
     right: -270px;
@@ -301,7 +301,7 @@ footer {
   }
   
   #girl {
-    background-image: url(assets/image-hero-desktop@2x.png);
+    background-image: url(image-hero-desktop@2x.png);
     /*height: 937px;
     right: -358px;
     top: -146px;
